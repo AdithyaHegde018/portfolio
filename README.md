@@ -1,49 +1,59 @@
 # Adithya Hegde — Portfolio
 
-A modern, recruiter-friendly personal portfolio website built with React, Vite, and Tailwind CSS.
+🌐 **Live Website:** adithyahegde-phi.vercel.app
 
-## Features
+A modern, recruiter-friendly personal portfolio website built with **React, Vite, and Tailwind CSS** showcasing my projects, technical skills, certifications, and experience.
 
-- Dark/light theme toggle with glassmorphism design
-- Fully responsive (desktop, tablet, mobile)
-- Smooth scroll animations and scroll-reveal effects
-- SEO-optimized with semantic HTML and JSON-LD structured data
-- Loading animation and back-to-top button
-- Reusable React component architecture
-- Sections: Hero, About, Skills, Projects, Education, Certifications, Contact
+## 🚀 Features
 
-## Getting Started
+- Dark/Light theme toggle
+- Glassmorphism UI design
+- Fully responsive (Desktop, Tablet & Mobile)
+- Smooth scroll animations
+- SEO optimized
+- Loading animation & Back-to-top button
+- Reusable React components
+- Sections:
+  - Hero
+  - About
+  - Skills
+  - Projects
+  - Education
+  - Certifications
+  - Contact
+
+## 🛠 Tech Stack
+
+- React 19
+- Vite
+- Tailwind CSS
+- JavaScript
+- HTML5
+- CSS3
+
+## 📦 Installation
 
 ```bash
 npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+Open `http://localhost:5173`.
 
-## Build for Production
+## 🏗 Build
 
 ```bash
 npm run build
 npm run preview
 ```
 
-## Deploy to Vercel
+## 🚀 Deployment
 
-1. Push the repository to GitHub
-2. Import the project on [Vercel](https://vercel.com)
-3. Vercel auto-detects Vite — no extra configuration needed
-4. `vercel.json` is included for SPA routing
+This portfolio is deployed on **Vercel**.
 
-## Customization
+## 📁 Customization
 
-- Update content in `src/data/content.js`
-- Replace placeholder images in `public/images/`
-- Add your resume PDF to `public/resume.pdf`
-- Update contact links (GitHub, LinkedIn, email) in `content.js`
-
-## Tech Stack
-
-- React 19
-- Vite 8
-- Tailwind CSS 4
+- Edit `src/data/content.js`
+- Replace images in `public/images/`
+- Add your resume to `public/resume.pdf`
+- Update GitHub, LinkedIn, and Email links
