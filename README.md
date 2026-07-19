@@ -1,6 +1,6 @@
 # Adithya Hegde — Portfolio
 
-🌐 **Live Website:** adithyahegde-phi.vercel.app
+🌐 **Live Website:** [adithyahegde-phi.vercel.app](https://adithyahegde-phi.vercel.app/)
 
 A modern, recruiter-friendly personal portfolio website built with **React, Vite, and Tailwind CSS** showcasing my projects, technical skills, certifications, and experience.
 
